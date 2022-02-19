@@ -1,0 +1,131 @@
+@media (max-width: 500px) {
+  html {
+    font-size: 62.5%;
+  }
+  .headings {
+    height: 2.6rem;
+    padding: 2.6rem 2rem;
+    margin-bottom: 9.2;
+  }
+  .logo {
+    height: 2.4rem;
+  }
+  .main-nav-list {
+    gap: 2rem;
+  }
+  .main-nav-link:link,
+  .main-nav-link:visited {
+    font-size: 1.3rem;
+  }
+  .section-hero {
+    margin-bottom: 7.5rem;
+  }
+  .hero {
+    padding: 2rem;
+    text-align: center;
+  }
+  .hero-img {
+    width: 100%;
+  }
+  .heading-primary {
+    font-size: 2.6rem;
+    text-align: center;
+  }
+  .description {
+    font-size: 1.6rem;
+  }
+  .hero form {
+    width: 100%;
+    grid-template-columns: 1fr;
+    padding-right: 0;
+  }
+  .btn {
+    padding: 1.2rem 0;
+  }
+  .section-testimonial {
+    background: url(images/bg-curve-mobile.svg);
+    background-size: 618% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    max-width: 100%;
+  }
+  .testimonial {
+    padding: 9rem 2rem 4rem 2rem;
+  }
+  .testimonial .heading-primary {
+    font-size: 1.7rem;
+  }
+  .testimonial .description {
+    font-size: 1.4rem;
+    color: hsl(238, 22%, 44%);
+  }
+  .how:link {
+    font-size: 1.3rem;
+  }
+  .testimonial .center {
+    margin-top: 4rem;
+  }
+  .testimonial-figure {
+    padding: 2rem;
+    margin: 4rem 2.5rem;
+    gap: 0.8rem;
+  }
+  .quotes {
+    height: 1.2rem;
+  }
+  .testimonial-text {
+    font-size: 1.1rem;
+    padding-right: 0;
+  }
+  .avatar {
+    height: 2.6rem;
+  }
+  .testimonial-name {
+    font-size: 1rem;
+  }
+  .info span {
+    font-size: 7px;
+    opacity: 1;
+  }
+  .section-cta {
+    padding: 5.4rem 0 6.7rem 0;
+  }
+  .cta {
+    padding: 0;
+    gap: 1.5rem;
+  }
+  .heading-secondary {
+    font-size: 1.9rem;
+    margin-bottom: 1.8rem;
+    text-align: center;
+  }
+  .section-cta .description {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .cta form {
+    gap: 1rem;
+  }
+  .cta .btn {
+    font-size: 1.2rem;
+  }
+  .footer {
+    padding: 7rem 3rem 3rem 3rem;
+  }
+  .footer-logo {
+    padding-left: 1rem;
+  }
+  .footer-content {
+    grid-template-columns: 1fr;
+    justify-items: start;
+    gap: 2rem;
+  }
+  .col {
+    gap: 1.6rem;
+    font-size: 1.5rem;
+    padding: 2rem 1.2rem;
+  }
+  .icon-col {
+    justify-self: center;
+  }
+}
