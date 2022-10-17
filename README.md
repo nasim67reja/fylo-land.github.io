@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/nasim67reja/fylo-land-page]
-- Live Site URL: [https://nasim67reja.github.io/fylo-land-page/]
+- Live Site URL: [https://nasim67reja.github.io/fylo-land.github.io/]
 
 ### Built with
 
